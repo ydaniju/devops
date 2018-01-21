@@ -1,0 +1,26 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "Testing Infrastructure as a service in Heroku",
+  "main": "heroku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydaniju/devops.git"
+  },
+  "keywords": [
+    "devops"
+  ],
+  "author": "Yusuf Daniju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ydaniju/deveops/issues"
+  },
+  "homepage": "https://github.com/ydaniju/deveops#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "heroin-js": "^1.21.0"
+  }
+}
